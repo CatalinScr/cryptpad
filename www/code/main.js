@@ -453,6 +453,7 @@ define([
             }
         };
 
-        first();
+        //first();
+        second();
     });
 });
